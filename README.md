@@ -1,1 +1,1 @@
-Hi! I'm Marcelina (or Mari, or Cohe), a Brazilian programmer who mostly codes in Python and Kotlin. Currently, my main project is my game engine (which is more like a wrapper, really) based on [pygame-ce](https://pyga.me), [Sky Engine](https://github.com/iNCOHESiONS/sky-engine)!
+Hi! I'm Marcelina (or Mari, or Cohe), a Brazilian programmer who mostly codes in Python. Currently working on my [pygame-ce](https://pyga.me) wrapper, [Sky Engine](https://github.com/iNCOHESiONS/sky-engine)!
